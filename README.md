@@ -1,5 +1,5 @@
 # 🌲 Cypress Playground 🛝
-a
+
 👋 Seja bem-vindo(a)!
 
 É muito bom tê-lo(a) aqui. Tenho certeza que você vai amar esse curso. ❤️
